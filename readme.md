@@ -9,6 +9,7 @@
 ## Contents
 
 - [Lynx Family](#lynx-family)
+- [Templates](#templates)
 
 ## Lynx Family
 
@@ -18,5 +19,9 @@
 - [Rspeedy](https://lynxjs.org/rspeedy) - The Rspack-based build tool for Lynx.
 - [Lynx devtool](https://github.com/lynx-family/lynx-devtool) - An Electron-based developer tool for Lynx, providing mobile debugging features.
 - [Lynx Web](https://github.com/lynx-family/lynx-stack/tree/main/packages/web-platform) - The Lynx's Web Platform is an implementation for Lynx's native binding APIs based on Browser APIs.
+
+## Templates
+
+- [Native Map](https://github.com/hpstuff/lynx-map-example) - A simple map app that shows how to use the native binding API by [Rumen Rusanov](https://github.com/hpstuff)
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
