@@ -25,6 +25,10 @@
 - [Vue Lynx](https://github.com/rahul-vashishtha/lynx-stack/tree/lynx-vue-implementation)(prototype) - [**VueLynx**](https://github.com/rahul-vashishtha/lynx-stack/tree/lynx-vue-implementation) is a framework that allows you to build cross-platform [**Lynx**](https://lynxjs.org/) apps with [**Vue**](https://vuejs.org/) paradigm.
 - [Miso Lynx](https://github.com/haskell-miso/miso-lynx), build native mobile applications with [**Haskell**](https://haskell.org) [**miso**](https://github.com/dmjio/miso) and [**Lynx JS**](https://lynxjs.org/).
 
+## Tooling
+
+- [Tamer4Lynx](https://github.com/tamer4lynx/tamer4lynx) — Developer workflow and native extension ecosystem for Lynx, in an [Expo](https://expo.dev)-like spirit; CLI for scaffolding, linking, and bundling ([Autolink RFC](https://github.com/lynx-family/lynx/discussions/2653)). Docs: [tamer4lynx.github.io](https://tamer4lynx.github.io/).
+
 ## Templates
 
 - [Native Map](https://github.com/hpstuff/lynx-map-example) - A simple map app that shows how to use the native binding API by [Rumen Rusanov](https://github.com/hpstuff)
