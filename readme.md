@@ -9,6 +9,9 @@
 ## Contents
 
 - [Lynx Family](#lynx-family)
+- [Community Showcase](#community-showcase)
+- [UI Libraries](#ui-libraries)
+- [Tooling](#tooling)
 - [Templates](#templates)
 
 ## Lynx Family
@@ -22,8 +25,13 @@
 
 ## Community Showcase
 
-- [Vue Lynx](https://github.com/rahul-vashishtha/lynx-stack/tree/lynx-vue-implementation)(prototype) - [**VueLynx**](https://github.com/rahul-vashishtha/lynx-stack/tree/lynx-vue-implementation) is a framework that allows you to build cross-platform [**Lynx**](https://lynxjs.org/) apps with [**Vue**](https://vuejs.org/) paradigm.
+- [Vue Lynx](https://github.com/Huxpro/vue-lynx) - [**VueLynx**](https://vue.lynxjs.org) is a framework that allows you to build cross-platform [**Lynx**](https://lynxjs.org/) apps with [**Vue**](https://vuejs.org/) paradigm.
 - [Miso Lynx](https://github.com/haskell-miso/miso-lynx), build native mobile applications with [**Haskell**](https://haskell.org) [**miso**](https://github.com/dmjio/miso) and [**Lynx JS**](https://lynxjs.org/).
+
+## UI Libraries
+
+- [Lynx UI](https://github.com/lynx-family/lynx-ui) - The official headless UI library for [**ReactLynx**](https://lynxjs.org/react/), unifying platform-divergent component behavior behind one API. Docs: [lynxjs.org/next/ui](https://lynxjs.org/next/ui/).
+- [Vy UI](https://github.com/KealanAU/vyui) - Headless primitives and styled components for [**Vue Lynx**](https://vue.lynxjs.org), with a shadcn-style CLI for copying component source into your own project. Docs: [vyui.dev](https://vyui.dev).
 
 ## Tooling
 
