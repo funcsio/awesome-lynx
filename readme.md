@@ -25,7 +25,7 @@
 
 ## Community Showcase
 
-- [Vue Lynx](https://github.com/Huxpro/vue-lynx) - [**VueLynx**](https://vue.lynxjs.org) is a framework that allows you to build cross-platform [**Lynx**](https://lynxjs.org/) apps with [**Vue**](https://vuejs.org/) paradigm.
+- [Vue Lynx](https://vue.lynxjs.org) - [**VueLynx**](https://github.com/Huxpro/vue-lynx) is a framework that allows you to build cross-platform [**Lynx**](https://lynxjs.org/) apps with [**Vue**](https://vuejs.org/) paradigm.
 - [Miso Lynx](https://github.com/haskell-miso/miso-lynx), build native mobile applications with [**Haskell**](https://haskell.org) [**miso**](https://github.com/dmjio/miso) and [**Lynx JS**](https://lynxjs.org/).
 
 ## UI Libraries
